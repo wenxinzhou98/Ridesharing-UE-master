@@ -1,0 +1,4 @@
+origin,destination,demand
+1,2,50
+1,3,40
+1,4,50
