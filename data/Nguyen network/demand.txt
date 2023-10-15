@@ -1,5 +1,0 @@
-origin,destination,demand
-1,11,600
-1,13,675
-2,11,750
-2,13,525
